@@ -1,1 +1,2 @@
-Inna wersja tego plik a jak
+Inna wersja tego plik a jak.
+Dodanie nowej, eksperymentalnej funkcjonalności.
